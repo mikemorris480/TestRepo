@@ -1,5 +1,17 @@
-p {
-    color: red;
-    font-size: 20px;
-    font-weight: bold;
+table{
+    display:flex;
+    border: 1px solid black;
+    justify-content: center;
+    }
+
+.team{
+    background-color: yellow;
+}
+
+#add1{
+    background-color: lightblue;
+}
+
+#add2{
+    background-color: orange;
 }
